@@ -60,6 +60,7 @@ body {
   border: 1px solid black;
   margin: 0px; /*para evitar diferentes bordes en navegadores */
   padding: 0px; /*para evitar diferentes bordes en navegadores */
+  overflow-x: auto;
 }
 
 header {
